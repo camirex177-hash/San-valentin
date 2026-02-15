@@ -26,7 +26,6 @@ h1 {
     margin-bottom: 15px;
 }
 
-/* Estilo del Carrusel */
 .carousel {
     width: 250px;
     height: 300px;
@@ -59,7 +58,6 @@ h1 {
     margin-bottom: 25px;
 }
 
-/* Botones */
 .buttons {
     display: flex;
     justify-content: center;
@@ -90,5 +88,5 @@ button {
 #noBtn {
     background-color: #888;
     color: white;
-    position: absolute; /* Para que pueda saltar por toda la pantalla */
+    position: absolute;
 }
